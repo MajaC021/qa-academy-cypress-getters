@@ -1,0 +1,16 @@
+{
+    "baseUrl": "http://localhost:3000",
+    "viewportHeight": 500,
+    "viewportWidth": 700,
+    "video": false,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "overwrite": false,
+      "html": false,
+      "json": true
+    },
+    "env": {
+      "username": "majacveticanin90@gmail.com",
+      "password": "Majovita1990"
+    }
+  }

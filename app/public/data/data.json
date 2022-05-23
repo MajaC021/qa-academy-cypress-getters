@@ -1,6 +1,128 @@
 {
-  "boards": [],
-  "tasks": [],
-  "users": [],
-  "lists": []
+  "boards": [
+    {
+      "name": "My board",
+      "user": 1,
+      "id": 66125622820,
+      "starred": false,
+      "created": "2022-05-21"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 66125622820,
+      "description": "",
+      "completed": false,
+      "listId": 44464609804,
+      "title": "task 1",
+      "id": 86426978062,
+      "created": "2022-05-21",
+      "deadline": "2022-05-24"
+    },
+    {
+      "boardId": 66125622820,
+      "description": "",
+      "completed": false,
+      "listId": 44464609804,
+      "title": "task 2",
+      "id": 74026751681,
+      "created": "2022-05-21",
+      "deadline": "2022-05-24"
+    },
+    {
+      "boardId": 66125622820,
+      "description": "",
+      "completed": false,
+      "listId": 44464609804,
+      "title": "task 3",
+      "id": 5349227692,
+      "created": "2022-05-21",
+      "deadline": "2022-05-24"
+    }
+  ],
+  "users": [
+    {
+      "email": "majacveticanin90@gmail.com",
+      "password": "$2a$10$ryknwvA1dnclA4EHJcCl7ug3mErJ8Z7zM8bKlM5BMMU83HxP7dh5y",
+      "id": 1
+    },
+    {
+      "email": "majacekic90@gmail.com",
+      "password": "$2a$10$sp2atMOaPFep7dVKNqFUSOLymFkPTuV23MDMAlE1zUKQqmI8u7oce",
+      "id": 2
+    },
+    {
+      "email": "shsh@ggg.com",
+      "password": "$2a$10$6dTvfWKVpqMiCCCTtPZ5M.jEh8xUHmsCB7v35Uep7GM9g2hvfmXzC",
+      "id": 3
+    },
+    {
+      "email": "sggsgsg@gmail.com",
+      "password": "$2a$10$vh5scCrZm8S7q/8wKGlk3uUkXZZk4HDrFyfv6YvtwOf6Lz9Znacca",
+      "id": 4
+    },
+    {
+      "email": "sghssgsgsg@gmail.com",
+      "password": "$2a$10$/UlXHVagy0G.HDyQdS8NieQdYSS7cyt5IZ8RkH1Icjvj7ZWViJTZi",
+      "id": 5
+    },
+    {
+      "email": "ggs@gmail.com",
+      "password": "$2a$10$KERPeGyaSRuRLyf7Ism0v.K14kmjvKUPWO8QJGNVgb/aSsFlKzhwO",
+      "id": 6
+    },
+    {
+      "email": "gfsfgs@gmail.com",
+      "password": "$2a$10$q6Rv28IOGCc2MwvcX2qMouhKG9ccQbhkbqnSzmUkskqZageEGQryC",
+      "id": 7
+    },
+    {
+      "email": "fadfaf@gmail.com",
+      "password": "$2a$10$75e8mkzMUzbod30afDPnwusRrBvlADvia7iznyiuKv4kYi9DpO5ee",
+      "id": 8
+    },
+    {
+      "email": "fadfazzzf@gmail.com",
+      "password": "$2a$10$CEsmkqeeTvuzKZiUNB8zUusoiy9nUr3OHQD4FMWN02Iv.DfibxGRy",
+      "id": 9
+    },
+    {
+      "email": "fgsfs@gmail.com",
+      "password": "$2a$10$lU2BBuhXZlutelfxmuK0Y.TNBcC4XT0MgLAnzh/HMYaNLBSgU7J.e",
+      "id": 10
+    },
+    {
+      "email": "fssgsfs@gmail.com",
+      "password": "$2a$10$0Q8INdityJhxyyJn/DW2yuFsrvN8DKjr5oGhIrh0AUdSGMbCgRm9i",
+      "id": 11
+    },
+    {
+      "email": "fssgsfsass@gmail.com",
+      "password": "$2a$10$aF4keY/uSM.sLShZO1R8pe4rJtuQwlSzC4KeE4v0GU9TE.AXN2wCO",
+      "id": 12
+    },
+    {
+      "email": "fssgsfkksgdgsass@gmail.com",
+      "password": "$2a$10$ARmCCWooSax4udCoRtmlo.fb8H3vKJHccLI8spib1HZ3LRiTAcpcy",
+      "id": 13
+    },
+    {
+      "email": "gggsgsg@gmail.com",
+      "password": "$2a$10$u406CR76zBBuPMe/Ch7GXu903gSDGV.M6hK0W82tD6MEMrbuSGPwK",
+      "id": 14
+    },
+    {
+      "email": "dggd@gmail.com",
+      "password": "$2a$10$wNVXAxsM2M7ybWhOCXq08e827esmkjUL7zpnU65yqWIJjL0B46ljq",
+      "id": 15
+    }
+  ],
+  "lists": [
+    {
+      "boardId": 66125622820,
+      "title": "new list",
+      "id": 44464609804,
+      "created": "2022-05-21"
+    }
+  ]
 }
